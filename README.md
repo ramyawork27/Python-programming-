@@ -1,2 +1,2 @@
 # Python-programming-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/1280px-Python_logo_01.svg.png
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/c5c7bf36-dfb1-4ad6-9e19-bb8cb3c2562b" />
